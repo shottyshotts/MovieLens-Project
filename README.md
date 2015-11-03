@@ -1,3 +1,1 @@
-MovieLens-Project 
-# AndroidStuff 
 # AndroidStuff 
